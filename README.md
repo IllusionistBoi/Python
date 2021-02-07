@@ -1,4 +1,4 @@
- This repo contains code for my 100 day challenge that will make me fluent in Python
+ _This repo contains code for my 100 day challenge that will make me fluent in Python_
  ---------------------------------------------------------------------------------------
 
 * Master the Python programming language by building 100 projects over 100 days
