@@ -2,7 +2,9 @@
  ---------------------------------------------------------------------------------------
 
 * Master the Python programming language by building 100 projects over 100 days
+
 * Create a portfolio of 100 Python projects to apply for developer jobs
+
 * Be able to build fully-fledged websites and web apps with Python
 
 ---------------------------------------------------------------------------------------
